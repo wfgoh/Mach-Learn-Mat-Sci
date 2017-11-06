@@ -16,5 +16,5 @@ Mean avarage error on CV = 0.44 eV </br>
 Mean square error on CV = 0.80 eV</br>
 
 **Plot:**</br>
-![](https://github.com/wfgoh/Mach-Learn-Mat-Sci/blob/master/bandgap_predict.jpg)
-It looks like there is a 
+![](https://github.com/wfgoh/Mach-Learn-Mat-Sci/blob/master/bandgap_predict.jpg)</br>
+It looks like there machine learning is capable to predict the band gaps given only the atomic mass of each elements in the compounds. Fine tuning and feature engineering can be done to improve the results.
