@@ -7,13 +7,13 @@ This code bandgap.py written in Python shows that ternary materials' band gap ca
 Training data = 10,000 materials band gaps</br>
 Cross-validation (CV) = 3,000 materials band gaps</br>
 Feature = atomic mass in each compounds</br>
-Algorithm = random forest regression</br>
+Algorithm = random forest regression (untuned)</br>
 
 **Results:**</br>
 Training score = 0.93</br>
-Prediction score (CV) = 0.73</br>
-Mean avarage error = 0.44 eV </br>
-Mean square error = 0.80 eV</br>
+Prediction score on CV = 0.73</br>
+Mean avarage error on CV = 0.44 eV </br>
+Mean square error on CV = 0.80 eV</br>
 
 **Plot:**</br>
-![](https://github.com/wfgoh/mach-learn-mat-sci/blob/master/bandgap_predict.jpg)
+![](https://github.com/wfgoh/Mach-Learn-Mat-Sci/blob/master/bandgap_predict.jpg)
