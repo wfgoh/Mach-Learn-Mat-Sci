@@ -13,14 +13,6 @@ mass_sum = []
 mass1 = []
 mass2 = []
 mass3 = []
-group_sum = []
-group1 = []
-group2 = []
-group3 = []
-eneg_sum = []
-eneg1 = []
-eneg2 = []
-eneg3 = []
 
 for mat in train['material']:
     composition.append(Composition(mat))
