@@ -10,10 +10,10 @@ Feature = atomic mass in each compounds</br>
 Algorithm = random forest regression (untuned)</br>
 
 **Results:**</br>
-Training score = 0.93 (max = 1)</br>
-Prediction score on CV = 0.73</br>
-Mean avarage error on CV = 0.44 eV </br>
-Mean square error on CV = 0.80 eV</br>
+Training score = 0.92</br>
+Prediction score on CV = 0.75</br>
+Mean avarage error on CV = 0.43 eV</br>
+Mean squared error on CV = 0.78 eV</br>
 
 **Plot:**</br>
 ![](https://github.com/wfgoh/Mach-Learn-Mat-Sci/blob/master/bandgap_predict.jpg)</br>
